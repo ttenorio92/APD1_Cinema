@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import ator
+from logica import ator
 
 
 def imprimir_ator(ator):

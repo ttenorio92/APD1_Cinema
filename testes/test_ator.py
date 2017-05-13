@@ -1,5 +1,5 @@
 import unittest
-from logica import ator
+import ator
 
 class TestAtor(unittest.TestCase):
     
