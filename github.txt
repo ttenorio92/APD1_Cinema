@@ -3,3 +3,7 @@ git add --all
 git commit -m 'Teste de github'
 git remote add origin https://github.com/ttenorio92/APD1_Cinema.git
 git push origin master
+
+git add *
+git commit -m 'Sua mensagem de commit'
+git push -u origin master
