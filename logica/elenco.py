@@ -21,7 +21,7 @@ def buscar_elenco(cod_elenco):
 #    pass
 
 def remover_elenco(cod_elenco):
-    for a in elencos:
+    for e in elencos:
         if (e[0] == cod_elenco):
             elencos.remove(e)
         return True
