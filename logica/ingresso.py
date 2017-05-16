@@ -20,7 +20,7 @@ def remover_todos_ingressos():
     global ingressos
     ingressos = []  
     
-def iniciar_ingressos():
+def iniciar_ingresso():
     iniciar_ingressos(111)    
         
         
